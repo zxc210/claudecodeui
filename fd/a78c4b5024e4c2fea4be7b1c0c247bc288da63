@@ -1,0 +1,19 @@
+server/modules/providers/tests/claude-sessions.test.ts
+  s_495a09bc13f844::t_fdf6927dd9e9b7 2252-2257,2263-2268,2282-2283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "fda78c4b5024e4c2fea4be7b1c0c247bc288da63",
+  "prompts": {},
+  "sessions": {
+    "s_495a09bc13f844": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_641f81a8-2e45-4f5f-9f29-a1ad8488cac9",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}
