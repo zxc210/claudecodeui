@@ -1,0 +1,20 @@
+server/shared/utils.ts
+  s_495a09bc13f844::t_7c3506a8c14329 1198-1206
+  s_495a09bc13f844::t_b23f4838cb5404 1232-1233,1235,1242-1250,1258-1262
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "d3f9e25f72a50360c485f02c4c39b809abcc4c98",
+  "prompts": {},
+  "sessions": {
+    "s_495a09bc13f844": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_641f81a8-2e45-4f5f-9f29-a1ad8488cac9",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}
